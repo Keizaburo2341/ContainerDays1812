@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       # コンテナイメージの場所
-      - image: acrregistryxxxx.azurecr.io/food-recognition:v1.0 
+      - image: acrregistry12437.azurecr.io/food-recognition:v1.0 
         name: food-container
 
         # ポート番号
