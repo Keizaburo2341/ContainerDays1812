@@ -6,4 +6,4 @@ metadata:
 
 # アプリに渡したいデータ
 data:
-    keystring: "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=blobstorage17319;AccountKey=Z6ZBjb7R/YJWfiP/SIA6zX6fthJhhvPxHk1gP62y0EbsvVcFFmGOpcfSmToVfKNgX1KZP25C3wyjxuQ3hYkgxg=="
+    keystring: "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=blobstorage19373;AccountKey=9/lSJ+QZqAs8/B03Jx1q7H+w3R1SX+ziwINgO93TTKVWwB9mZwAY78TRKy52ln0Uayn3BeJxCzoPTcQfGvT3qQ=="
